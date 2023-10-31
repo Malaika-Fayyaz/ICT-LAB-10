@@ -1,0 +1,65 @@
+
+.top{
+    font-size:xx-large;
+    height:35px;
+    width:10000px;
+    background-color:rgb(248, 212, 8);
+
+}
+.active{
+    background-color: rgb(252, 239, 56);
+}
+.centre {
+    display: block;
+    margin-left: 10cm;
+    width: 25%;
+}
+.body{
+    height:100000px;
+    width:100000px;
+    background-color: rgb(241, 240, 183);
+}
+img{
+    border-color:rgb(231, 229, 99);
+    border:5px;
+    border-style:solid;
+    border-radius:80%;
+   
+ 
+}
+.hipeople{
+    font-size:x-large;
+    margin-left:4cm;
+    color:black;
+}
+.name{
+    font-size:xx-large;
+    margin-left: 4cm;
+    color:rgb(104, 95, 18);
+}
+.detail{
+    font-size:large;
+    margin-left:4cm;
+    color:black;
+
+}
+
+.center{
+
+        display: block;
+        margin-left: 10cm;
+}
+.back{
+    height:100px;
+    width:1350px;
+    background-color: rgb(241, 237, 183);
+}
+.social{
+    color:rgb(104, 98, 18);
+
+}
+.h1{
+    height:100px;
+    width:1350px;
+    background-color: rgb(241, 237, 183); 
+}
